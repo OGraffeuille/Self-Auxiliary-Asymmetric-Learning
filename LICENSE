@@ -1,121 +1,234 @@
-Creative Commons Legal Code
+AUTO-LAMBDA SOFTWARE
 
-CC0 1.0 Universal
+LICENCE AGREEMENT
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+WE (Imperial College of Science, Technology and Medicine, (“Imperial College
+London”)) ARE WILLING TO LICENSE THIS SOFTWARE TO YOU (a licensee “You”) ONLY
+ON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS CONTAINED IN THE FOLLOWING
+AGREEMENT. PLEASE READ THE AGREEMENT CAREFULLY BEFORE DOWNLOADING THE SOFTWARE.
+BY EXERCISING THE OPTION TO DOWNLOAD THE SOFTWARE YOU AGREE TO BE BOUND BY THE
+TERMS OF THE AGREEMENT.
 
-Statement of Purpose
+SOFTWARE LICENCE AGREEMENT (EXCLUDING BSD COMPONENTS)
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+1.This Agreement pertains to a worldwide, non-exclusive, temporary, fully
+paid-up, royalty free, non-transferable, non-sub- licensable licence (the
+“Licence”) to use the elastic fusion source code, including any modification,
+part or derivative (the “Software”).
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+Ownership and Licence. Your rights to use and download the Software onto your
+computer, and all other copies that You are authorised to make, are specified
+in this Agreement. However, we (or our licensors) retain all rights, including
+but not limited to all copyright and other intellectual property rights
+anywhere in the world, in the Software not expressly granted to You in this
+Agreement.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+2. Permitted use of the Licence:
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+(a) You may download and install the Software onto one computer or server for
+use in accordance with Clause 2(b) of this Agreement provided that You ensure
+that the Software is not accessible by other users unless they have themselves
+accepted the terms of this licence agreement.
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+(b) You may use the Software solely for non-commercial, internal  or academic
+research purposes and only in accordance with the terms of this Agreement. You
+may not use the Software for commercial purposes, including but not limited to
+(1) integration of all or part of the source code or the Software into a
+product for sale or licence by or on behalf of You to third parties or (2) use
+of the Software or any derivative of it for research to develop software
+products for sale or licence to a third party or (3) use of the Software or any
+derivative of it for research to develop non-software products for sale or
+licence to a third party, or (4) use of the Software to provide any service to
+an external organisation for which payment is received.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+Should You wish to use the Software for commercial purposes, You shall
+email researchcontracts.engineering@imperial.ac.uk .
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+(c) Right to Copy. You may copy the Software for back-up and archival purposes,
+provided that each copy is kept in your possession and provided You reproduce
+our copyright notice (set out in Schedule 1) on each copy.
 
-4. Limitations and Disclaimers.
+(d) Transfer and sub-licensing. You may not rent, lend, or lease the Software
+and You may not transmit, transfer or sub-license this licence to use the
+Software or any of your rights or obligations under this Agreement to another
+party.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+(e) Identity of Licensee. The licence granted herein is personal to You. You
+shall not permit any third party to access, modify or otherwise use the
+Software nor shall You access modify or otherwise use the Software on behalf of
+any third party. If You wish to obtain a licence for mutiple users or a site
+licence for the Software please contact us
+at researchcontracts.engineering@imperial.ac.uk .
+
+(f) Publications and presentations. You may make public, results or data
+obtained from, dependent on or arising from research carried out using the
+Software, provided that any such presentation or publication identifies the
+Software as the source of the results or the data, including the Copyright
+Notice given in each element of the Software, and stating that the Software has
+been made available for use by You under licence from Imperial College London
+and You provide a copy of any such publication to Imperial College London.
+
+3. Prohibited Uses. You may not, without written permission from us
+at researchcontracts.engineering@imperial.ac.uk :
+
+(a) Use, copy, modify, merge, or transfer copies of the Software or any
+documentation provided by us which relates to the Software except as provided
+in this Agreement;
+
+(b) Use any back-up or archival copies of the Software (or allow anyone else to
+use such copies) for any purpose other than to replace the original copy in the
+event it is destroyed or becomes defective; or
+
+(c) Disassemble, decompile or "unlock", reverse translate, or in any manner
+decode the Software for any reason.
+
+4. Warranty Disclaimer
+
+(a) Disclaimer. The Software has been developed for research purposes only. You
+acknowledge that we are providing the Software to You under this licence
+agreement free of charge and on condition that the disclaimer set out below
+shall apply. We do not represent or warrant that the Software as to: (i) the
+quality, accuracy or reliability of the Software; (ii) the suitability of the
+Software for any particular use or for use under any specific conditions; and
+(iii) whether use of the Software will infringe third-party rights.
+
+You acknowledge that You have reviewed and evaluated the Software to determine
+that it meets your needs and that You assume all responsibility and liability
+for determining the suitability of the Software as fit for your particular
+purposes and requirements. Subject to Clause 4(b), we exclude and expressly
+disclaim all express and implied representations, warranties, conditions and
+terms not stated herein (including the implied conditions or warranties of
+satisfactory quality, merchantable quality, merchantability and fitness for
+purpose).
+
+(b) Savings. Some jurisdictions may imply warranties, conditions or terms or
+impose obligations upon us which cannot, in whole or in part, be excluded,
+restricted or modified or otherwise do not allow the exclusion of implied
+warranties, conditions or terms, in which case the above warranty disclaimer
+and exclusion will only apply to You to the extent permitted in the relevant
+jurisdiction and does not in any event exclude any implied warranties,
+conditions or terms which may not under applicable law be excluded.
+
+(c) Imperial College London disclaims all responsibility for the use which is
+made of the Software and any liability for the outcomes arising from using the
+Software.
+
+5. Limitation of Liability
+
+(a) You acknowledge that we are providing the Software to You under this
+licence agreement free of charge and on condition that the limitation of
+liability set out below shall apply. Accordingly, subject to Clause 5(b), we
+exclude all liability whether in contract, tort, negligence or otherwise, in
+respect of the Software and/or any related documentation provided to You by us
+including, but not limited to, liability for loss or corruption of data, loss
+of contracts, loss of income, loss of profits, loss of cover and any
+consequential or indirect loss or damage of any kind arising out of or in
+connection with this licence agreement, however caused. This exclusion shall
+apply even if we have been advised of the possibility of such loss or damage.
+
+(b) You agree to indemnify Imperial College London and hold it harmless from
+and against any and all claims, damages and liabilities asserted by third
+parties (including claims for negligence) which arise directly or indirectly
+from the use of the Software or any derivative of it or the sale of any
+products based on the Software. You undertake to make no liability claim
+against any employee, student, agent or appointee of Imperial College London,
+in connection with this Licence or the Software.
+
+(c) Nothing in this Agreement shall have the effect of excluding or limiting
+our statutory liability.
+
+(d) Some jurisdictions do not allow these limitations or exclusions either
+wholly or in part, and, to that extent, they may not apply to you. Nothing in
+this licence agreement will affect your statutory rights or other relevant
+statutory provisions which cannot be excluded, restricted or modified, and its
+terms and conditions must be read and construed subject to any such statutory
+rights and/or provisions.
+
+6. Confidentiality. You agree not to disclose any confidential information
+provided to You by us pursuant to this Agreement to any third party without our
+prior written consent. The obligations in this Clause 6 shall survive the
+termination of this Agreement for any reason.
+
+7. Termination.
+
+(a) We may terminate this licence agreement and your right to use the Software
+at any time with immediate effect upon written notice to You.
+
+(b) This licence agreement and your right to use the Software automatically
+terminate if You:
+
+  (i) fail to comply with any provisions of this Agreement; or
+
+  (ii) destroy the copies of the Software in your possession, or voluntarily
+  return the Software to us.
+
+(c) Upon termination You will destroy all copies of the Software.
+
+(d) Otherwise, the restrictions on your rights to use the Software will expire
+10 (ten) years after first use of the Software under this licence agreement.
+
+8. Miscellaneous Provisions.
+
+(a) This Agreement will be governed by and construed in accordance with the
+substantive laws of England and Wales whose courts shall have exclusive
+jurisdiction over all disputes which may arise between us.
+
+(b) This is the entire agreement between us relating to the Software, and
+supersedes any prior purchase order, communications, advertising or
+representations concerning the Software.
+
+(c) No change or modification of this Agreement will be valid unless it is in
+writing, and is signed by us.
+
+(d) The unenforceability or invalidity of any part of this Agreement will not
+affect the enforceability or validity of the remaining parts.
+
+BSD Elements of the Software
+
+For BSD elements of the Software, the following terms shall apply:
+Copyright as indicated in the header of the individual element of the Software.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+SCHEDULE 1
+
+The Software
+
+Auto-lambda is a multi-task and auxiliary learning optimisation framework, which automatically and dynamically
+update task weightings during training based on the choice of the primary tasks.
+
+    • Shikun Liu, Stephen James, Andrew J. Davison, Edward Johns.
+    Auto-Lambda: Disentangling Dynamic Task Relationships. Transactions on Machine Learning Research, 2022
+_________________________
+
+Acknowledgments
+
+If you use the software, you should reference the following paper in any
+publication:
+
+    • Shikun Liu, Stephen James, Andrew J. Davison, Edward Johns.
+    Auto-Lambda: Disentangling Dynamic Task Relationships. Transactions on Machine Learning Research, 2022
